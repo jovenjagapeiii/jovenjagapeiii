@@ -27,7 +27,7 @@
 ### 🌐 Frontend Development
 * **Frameworks:** React.js, Next.js
 * **Styling:** HTML5, CSS3, Tailwind CSS, Bootstrap
-* **Architecture:** Component-Based Architecture, Responsive Web Design, SEO Best Practices
+* **Architecture:** Component-Based Architecture, Responsive Web Design
 
 ### 🔌 Backend & Database
 * **Database:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase
@@ -47,24 +47,13 @@
 
 ### **Customized ERP System – Jersey Gear**
 * **Role:** Full-Stack Developer
-* Developed a centralized system using **React**, **Tailwind CSS**, and **Firebase** to automate piece-rate production tracking and payroll.
-* Architected real-time tracking modules and Firestore schemas to eliminate manual entry errors.
+* Developed a centralized system using **React**, **Tailwind CSS**, and **Firebase** to automate piece-rate production tracking.
+* Architected real-time tracking modules and Firestore schemas.
 
 ### **Creative Studio Reservation – Uy Records**
 * **Role:** Full-Stack Developer
 * Engineered a studio reservation system to automate bookings and eliminate scheduling conflicts.
 * Implemented a real-time availability calendar synced with **Firestore**.
-
-### **E-commerce Website – Local Sportswear Brand**
-* **Role:** Full-Stack Developer
-* Designed a high-performance landing page using **React** and **Tailwind CSS**.
-* Leveraged **Firebase** for rapid backend integration and asset management.
-
----
-
-## 🎨 Additional Skills
-* **Management:** Project Management, Time Management, Agile Workflow
-* **Soft Skills:** Leadership, Critical Thinking, Effective Communication, Public Relations
 
 ---
 
