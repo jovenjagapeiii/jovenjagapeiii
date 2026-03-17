@@ -1,22 +1,18 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/1a1a2e/8a2be2?text=Joven+Jagape+III+|+MERN+Stack+Developer" alt="Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8a2be2&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Joven+Jagape+III+🌌;MERN+Stack+Developer+🚀;BS+Computer+Science+at+STI+College+🎓;UI/UX+Enthusiast+🎨" alt="Typing Banner" />
 
-  # Hi, I'm Joven Jagape III 🌌
-  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jovenjagapeiii&color=8a2be2&style=flat-square" alt="visitors">
   </p>
-
-  *"Building high-fidelity glassmorphic interfaces and scalable MERN solutions."*
 </div>
 
 <hr />
 
 ## 🌸 About Me
 * 🎓 **BS Computer Science Student** at **STI College Santa Rosa**
-* 📜 **Full-Stack Web Development (MERN)** Graduate from **Zuitt**
-* 💻 **Full-Stack Developer** specializing in real-time data and secure infrastructure
-* 🎨 **UI/UX Enthusiast** with a focus on React, Tailwind CSS, and Figma
+* 📜 **Full-Stack Web Development (MERN)** graduate from **Zuitt Tech Program**
+* 💻 **Full-Stack Developer** specialized in real-time data architecture and secure infrastructure
+* 🎨 **UI/UX Specialist** focused on High-Fidelity, Glassmorphic interfaces
 * 🇵🇭 Based in **Santa Rosa, Laguna, Philippines**
 
 ---
@@ -40,10 +36,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jovenjagapeiii&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovenjagapeiii&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovenjagapeiii&theme=tokyonight" alt="Streak" width="100%" />
+</p>
+
+---
+
 ## 📂 Featured Experience
-* **Customized ERP System (Jersey Gear)** – Automating production tracking and payroll with React and Firebase.
-* **Uy Records Reservation System** – Engineered a studio booking system with real-time Firestore syncing.
-* **E-commerce Platform** – High-performance landing page for a local sportswear brand.
+* **Customized ERP System (Jersey Gear)** – Built a centralized system for piece-rate tracking and payroll using React and Firebase.
+* **Uy Records Reservation Website** – Engineered a studio booking system with real-time availability synced with Firestore.
+* **E-commerce Platform** – High-performance landing page featuring optimized SEO and asset management.
 
 ---
 
@@ -53,5 +62,5 @@
 * 🕹️ **Playing:** Genshin Impact & Honkai: Star Rail
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jovenjagapeiii&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  *"Creating aesthetic, functional, and user-friendly applications."*
 </div>
