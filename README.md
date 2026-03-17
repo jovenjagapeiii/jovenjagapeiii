@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8a2be2&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Joven+Jagape+III+🌌;MERN+Stack+Developer+🚀;BS+Computer+Science+at+STI+College+🎓;UI/UX+Enthusiast+🎨" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8a2be2&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Joven+Jagape+III+🌌;MERN+Stack+Developer+🚀;BS+Computer+Science+at+STI+College+🎓;UI+UX+Enthusiast+🎨" alt="Typing Banner" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jovenjagapeiii&color=8a2be2&style=flat-square" alt="visitors">
@@ -9,30 +9,56 @@
 <hr />
 
 ## 🌸 About Me
-* 🎓 **BS Computer Science Student** at **STI College Santa Rosa**
+* 🎓 **BS Computer Science Student** at **STI College Santa Rosa** (Expected 2027)
 * 📜 **Full-Stack Web Development (MERN)** graduate from **Zuitt Tech Program**
-* 💻 **Full-Stack Developer** specialized in real-time data architecture and secure infrastructure
-* 🎨 **UI/UX Specialist** focused on High-Fidelity, Glassmorphic interfaces
-* 🇵🇭 Based in **Santa Rosa, Laguna, Philippines**
+* 📍 Based in **Santa Rosa, Laguna, Philippines**
+* 💡 Focused on glassmorphic UI/UX and real-time data architecture
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Programming & Web Development
 
-### 🚀 The MERN Stack & Beyond
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🌐 Frontend Development
+* **Frameworks:** React.js, Next.js
+* **Styling:** HTML5, CSS3, Tailwind CSS, Bootstrap
+* **Architecture:** Component-Based Architecture, Responsive Web Design, SEO Best Practices
 
-### ⚙️ Tools & Infrastructure
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 🔌 Backend & Database
+* **Database:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase
+* **Systems:** REST APIs, Database Design, Data Management
+
+### 🚀 Full-Stack Web Development
+* **Logic:** JavaScript (ES6+), TypeScript, SQL
+* **Implementation:** API Integration, Authentication Systems, CRUD Operations, SDLC
+
+### ⚙️ DevOps & Development Tools
+* **Workflow:** Git, GitHub, GitHub Actions (CI/CD), Vercel, Postman
+* **Design:** Figma (Rapid Prototyping & Wireframing), Trello (Agile)
+
+---
+
+## 📂 Project Experience
+
+### **Customized ERP System – Jersey Gear**
+* **Role:** Full-Stack Developer
+* Developed a centralized system using **React**, **Tailwind CSS**, and **Firebase** to automate piece-rate production tracking and payroll.
+* Architected real-time tracking modules and Firestore schemas to eliminate manual entry errors.
+
+### **Creative Studio Reservation – Uy Records**
+* **Role:** Full-Stack Developer
+* Engineered a studio reservation system to automate bookings and eliminate scheduling conflicts.
+* Implemented a real-time availability calendar synced with **Firestore**.
+
+### **E-commerce Website – Local Sportswear Brand**
+* **Role:** Full-Stack Developer
+* Designed a high-performance landing page using **React** and **Tailwind CSS**.
+* Leveraged **Firebase** for rapid backend integration and asset management.
+
+---
+
+## 🎨 Additional Skills
+* **Management:** Project Management, Time Management, Agile Workflow
+* **Soft Skills:** Leadership, Critical Thinking, Effective Communication, Public Relations
 
 ---
 
@@ -49,17 +75,10 @@
 
 ---
 
-## 📂 Featured Experience
-* **Customized ERP System (Jersey Gear)** – Built a centralized system for piece-rate tracking and payroll using React and Firebase.
-* **Uy Records Reservation Website** – Engineered a studio booking system with real-time availability synced with Firestore.
-* **E-commerce Platform** – High-performance landing page featuring optimized SEO and asset management.
-
----
-
-## 🎵 Interests & Vibe
-* 🧸 **Listening to:** beabadoobee (Glue Song)
-* 🌠 **Stan:** tripleS
-* 🕹️ **Playing:** Genshin Impact & Honkai: Star Rail
+## 🎵 Hobbies & Music
+* 🧸 **Vibing to:** "Glue Song" by beabadoobee
+* 🌠 **Favorite Group:** tripleS
+* 💻 **Interests:** AI-Assisted Development & UI/UX Wireframing
 
 <div align="center">
   *"Creating aesthetic, functional, and user-friendly applications."*
