@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8a2be2&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Joven+Jagape+III+🌌;MERN+Stack+Developer+🚀;BS+Computer+Science+at+STI+College+🎓;UI+UX+Enthusiast+🎨" alt="Typing Banner" />
+  # Joven D. Jagape III 🌌
+  **MERN Stack Developer | BS Computer Science Student**
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jovenjagapeiii&color=8a2be2&style=flat-square" alt="visitors">
   </p>
+
+  ### 📞 Contact Information
+  📍 **Santa Rosa, Laguna, Philippines**
+  📧 **jagapejoveniii@gmail.com**
+  📱 **09761440273**
 </div>
 
 <hr />
@@ -11,8 +17,8 @@
 ## 🌸 About Me
 * 🎓 **BS Computer Science Student** at **STI College Santa Rosa** (Expected 2027)
 * 📜 **Full-Stack Web Development (MERN)** graduate from **Zuitt Tech Program**
-* 📍 Based in **Santa Rosa, Laguna, Philippines**
-* 💡 Focused on glassmorphic UI/UX and real-time data architecture
+* 💻 **Full-Stack Developer** with experience in building ERP and E-commerce systems
+* 🎨 **UI/UX Specialist** focused on glassmorphic interfaces and real-time data
 
 ---
 
